@@ -1,0 +1,43 @@
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: lightgray;
+}
+.simple {
+    color: #003366;
+    font-weight: lighter;
+    font-family: verdana,Arial,sans-serif;
+}
+body {
+    background-color: #ffffff;
+    color: #003366;
+    font-family: verdana,Arial,sans-serif;
+}
+header {
+    background-color: #003366;
+    color: #AEC3E3;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+h1 {
+    line-height: 200%;
+    text-indent: 1em;
+}
+nav {
+    font-weight: bold;
+}
+dt {
+    color: #5280C5;
+    font-size: 1.1em;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+.category {
+    font-weight: bold;
+    color: #5380C5;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+footer {
+    font-size: 0.70em;
+    font-style: italic;
+}
