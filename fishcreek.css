@@ -1,8 +1,8 @@
-.headingimage {
+/*.headingimage {
     position: relative;
     margin: 10%;
 }
-
+*/
 #wrapper {
     margin-left: auto;
     margin-right: auto;
@@ -23,15 +23,21 @@ header {
     background-color: #003366;
     color: #AEC3E3;
     font-family: Georgia, 'Times New Roman', serif;
+    margin: auto;
 }
 h1 {
     line-height: 200%;
     text-indent: 1em;
     background-color: black;
-    position: absolute;
+    background-image: url("bigfish.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
 }
 nav {
+    text-align: center;
     font-weight: bold;
+    background-color: #003366;
 }
 dt {
     color: #5280C5;
@@ -46,5 +52,12 @@ dt {
 }
 footer {
     font-size: 0.70em;
-    font-style: italic;
+    text-align: center;
+    background-color: #5380C5;
+
+}
+.extra {
+    font-size: 0.70em;
+    text-align: center;
+
 }
